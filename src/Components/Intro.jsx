@@ -15,12 +15,13 @@ const Intro = () => {
       <br />
       <br />
       <br />
-      <p>
+      <p className="justify-center text-center text-4xl text-cyan-400">
         Happy birthday mom You are the sweetest mom in the world You are always
         there when I need you I know you are always there for me You can take on
         the entire world for me You are our world With you we are complete,
         without you we are nothing
       </p>
+      <br /><br /><br />
       <h1 className="font-extrabold text-7xl text-red-700 justify-center text-center">
         WE LOVE YOU MUMMA!!!
       </h1>
